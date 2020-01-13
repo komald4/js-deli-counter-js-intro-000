@@ -14,9 +14,9 @@
 var katzDeli = [];
 var newCustomer = [];
 function takeANumber (currentLine, newCustomer){
-  var ticketInLine = currentLine.length +1; 
+  var ticketInLine = currentLine.length +1;
   # var ticketInLine = newCustomer++
-  var newCustomer = newCustomer.length +1; 
+  var newCustomer = newCustomer.length +1;
   var outputString = "Welcome, " + name. "You are ticket " + currentInLine + " in line.";
   currentLine.push(currentLine);
   newCustomer.push(newCustomer);
